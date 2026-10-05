@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+# build artifacts
+artifacts/
+cache/
+out/
+typechain-types/
+# secrets — never commit
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+# editors / OS
+.DS_Store
+.vscode/
+.idea/
