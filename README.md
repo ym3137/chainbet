@@ -119,7 +119,7 @@ External dependency: OpenZeppelin Contracts v5 (`Ownable(msg.sender)` constructo
 
 ## Running it locally
 
-There is no build configuration in this repository — the contracts were compiled and deployed from Remix. To work with them in a project of your own:
+There is no build configuration in this repository — the contracts were compiled and deployed outside it. To work with them in a project of your own:
 
 ```bash
 npm install @openzeppelin/contracts
